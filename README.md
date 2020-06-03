@@ -5,7 +5,7 @@ The project was elaborated using a dataset of 50 000 questions posted on Stack O
 1/ Notebook 1 
 
 - Cleaning
--- Deleting code
+> Deleting code
 -- Deleting HTML tags
 -- Deleting special caracters
 -- Tokenization
