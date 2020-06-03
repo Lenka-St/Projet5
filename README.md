@@ -17,7 +17,7 @@ The project was elaborated using a dataset of 50 000 questions posted on Stack O
 > TF-IDF
 > Word2vect
 
--EDA
+- Exploratory Data Analysis
 > Frequency of most common expressions
 > Description of tags
 > Dimension reduction using PCA & t-SNE
